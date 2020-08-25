@@ -20,6 +20,9 @@
 
 * pizza
 
+## images
+
+
 
 
 
@@ -31,5 +34,6 @@ https://thegreatestbooks.org/
 
 https://www.thrillophilia.com/blog/60-places-you-need-to-visit-in-india-with-your-best-friend/
 
+https://en.wikipedia.org/wiki/Indian_cuisine
 
 
