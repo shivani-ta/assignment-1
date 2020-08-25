@@ -12,13 +12,13 @@
 
 ## Favorite dishes
 
-* chicken biryani
+1 chicken biryani
 
-* samosa
+2 samosa
 
-* pasta
+3 pasta
 
-* pizza
+4 pizza
 
 ## images
 
