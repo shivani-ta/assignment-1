@@ -1,27 +1,25 @@
 # assignment-1
-## Favorite books
+## Favorite cuisines
 
-* emma 
+* indian
 
-* sherlock holmes
+* mexican
 
-* war and peace
+* italian
 
-* hamlet
+* french
 
-* oliver twist
 
-## Favorite authors
+## Favorite dishes
 
-* jane austen
+* chicken biryani
 
-* canon doyle
+* samosa
 
-* leo tolstoy
+* pasta
 
-* shakespeare
+* pizza
 
-* charles dickens
 
 
 
