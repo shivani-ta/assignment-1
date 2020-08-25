@@ -31,6 +31,15 @@ indian spices(https://user-images.githubusercontent.com/69983357/91121350-339570
 
 
 
+![20200715-lamb-biryani-nik-sharma](https://user-images.githubusercontent.com/69983357/91121596-c33b1e80-e65d-11ea-8a2b-9bb5d9557323.jpg)
+lamb biryani (https://user-images.githubusercontent.com/69983357/91121596-c33b1e80-e65d-11ea-8a2b-9bb5d9557323.jpg)
+
+
+
+
+
+
+
 
 
 
