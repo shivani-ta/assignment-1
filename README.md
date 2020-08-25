@@ -1,2 +1,26 @@
 # assignment-1
-homework
+Favorite books
+
+##emma 
+
+##sherlock holmes
+
+##war and peace
+
+##hamlet
+
+##oliver twist
+
+Favorite authors
+
+##jane austen
+
+##canon doyle
+
+##leo tolstoy
+
+##shakespeare
+
+##charles dickens
+
+
